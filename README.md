@@ -36,7 +36,7 @@ add <diet> <name> - Add food to the list for a specific diet (meat, fish, fruit,
 remove <diet> <name> - Remove food from the list.  
 show <diet> - Show food list for a specific diet (or for all).    
     
-Feed-O-Matic was created by the wonderful Gazmik Fizzwidget, He's got what you need!   
+### Feed-O-Matic was created by the wonderful Gazmik Fizzwidget, He's got what you need!   
   
 As my Hunter friends can readily attest, keeping a wild pet can be a full-time job. Why, just feeding the critter when he gets hungry can throw off your routine — you’ve got to rummage around in your bags, find a piece of food, make sure it’s appropriate for his diet, and check your aim before tossing it to him (lest you accidentally destroy a tasty morsel). So inconvenient! Not to mention potentially dangerous… you don’t want to spend so long digging through your bags that you or your pet become someone else’s snack.  
   
